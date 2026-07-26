@@ -5,7 +5,7 @@
 
   <!-- ১০০% ফিক্সড এবং ক্যাশ-ফ্রি অ্যানিমেটেড টাইপিং ইফেক্ট -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=550&lines=Hi+I+am+Mahmood+Hassan;%E2%9A%A1+I am+Full-Stack+Developer;%F0%9F%8E%A8+React+%7C+Next.js+Specialist;Coding+is+my+Hobby!&cache=false" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=550&lines=Hi+I+am+Mahmood+Hassan;%E2%9A%A1+I+am+Full-Stack+Developer;%F0%9F%8E%A8+React+%7C+Next.js+Specialist;Coding+is+my+Hobby!&cache=false" alt="Typing Effect" />
   </p>
 
   ---
