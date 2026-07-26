@@ -27,13 +27,6 @@
 
   ---
 
-  ### **Crazy Live Activity Radar**
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmahmood071&theme=tokyonight&area=true&category=commits" width="100%" alt="Activity Graph" />
-  </p>
-
-  ---
-
   ### GitHub Analytics & Streaks
   <p align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hmahmood071&show_icons=true&theme=tokyonight&count_private=true" />
