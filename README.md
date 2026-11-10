@@ -67,7 +67,7 @@
 <br/>
 <br/>
 
-## :globe_with_meridians: Our community_
+## :globe_with_meridians: My channel
 
 ***<p align="center"> [<img width="350" src="image/fb.png">](https://www.facebook.com/profile.php?id=61577901490891)[<img  width="350" src="image/yt.png">](https://www.youtube.com/@mahmoodhassan7655) </p>***
 
