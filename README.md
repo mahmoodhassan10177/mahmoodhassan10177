@@ -12,6 +12,18 @@
 <br />
 <br />
 
+## :trophy: My Github Trophies
+
+<br/>
+<br/>
+<br/>
+<h3 align="center">
+  ![trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=mahmoodhassan10177)
+</h3>
+<br/>
+<br/>
+<br/>
+
 ## :chart_with_upwards_trend: My Journey & Expertise
 
 <img  src="image/journey.png" />
