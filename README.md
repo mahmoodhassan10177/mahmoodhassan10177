@@ -12,18 +12,6 @@
 <br />
 <br />
 
-## :trophy: My Github Trophies
-
-<br/>
-<br/>
-<br/>
-<h3 align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/)
-</h3>
-<br/>
-<br/>
-<br/>
-
 ## :chart_with_upwards_trend: My Journey & Expertise
 
 <img  src="image/journey.png" />
