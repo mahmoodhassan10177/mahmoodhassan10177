@@ -18,7 +18,7 @@
 <br/>
 <br/>
 <h3 align="center">
-  ![](https://trophygithubreadmelang.cybee.dpdns.org/?username=mahmoodhassan10177)
+  ![trophy](https://github-profile-trophy.vercel.app/)
 </h3>
 <br/>
 <br/>
