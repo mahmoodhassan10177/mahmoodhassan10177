@@ -12,6 +12,12 @@
 <br />
 <br />
 
+## :snake: Snake Reviewer
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## :trophy: GitHub Trophies
 
 <p align="center">
