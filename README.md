@@ -7,7 +7,7 @@
 <br />
 <br />
 <br />
-<h3 align="center">My chosen goal is to learn web development more thoroughly, build my skills, <br/> and prepare myself to launch my career.</h3>
+<h3 align="center">My chosen goal is to learn web development more thoroughly, build my skills, <br/> and prepare myself to launch a great career.</h3>
 <br />
 <br />
 <br />
